@@ -1,1 +1,3 @@
-git and github cource
+#Git-cource
+
+Git and GitHub cource
